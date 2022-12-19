@@ -1,2 +1,4 @@
-# Secondary-development-of-Hikvision-industrial-camera-SDK
+# 海康工业相机SDK的二次开发项目，用于opencv的aruco识别//Secondary-development-of-Hikvision-industrial-camera-SDK
 海康工业相机SDK的二次开发项目，用于opencv的aruco识别
+该项目运行在Linux环境下，Grab_ImageCallback是可执行文件，Grab_ImageCallback.cpp是源码，使用Makefile编译，代码存在很多BUG只作为测试使用。
+该项目里包含海康开发接口表，参见MvCameraNode.xlsx
